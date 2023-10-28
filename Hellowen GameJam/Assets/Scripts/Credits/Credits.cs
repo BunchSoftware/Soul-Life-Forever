@@ -18,7 +18,7 @@ public class Credits : MonoBehaviour
 
     public bool IsAnimationPlaying(string animationName)
     {
-        Animator creditsText = transform.GetChild(0).GetComponent<Animator>();
+        Animator creditsText = transform.GetChild(1).GetComponent<Animator>();
         var animatorStateInfo = creditsText.GetCurrentAnimatorStateInfo(0);
         if (animatorStateInfo.IsName(animationName))
         {
