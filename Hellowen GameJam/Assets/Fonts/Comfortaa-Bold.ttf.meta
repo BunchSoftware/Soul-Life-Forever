@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d45e31f38c7577c4da2d8aaae1abf781
+guid: 718a70583ccec2e44b5de2ec467852e3
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Moscow Sans
+  - Comfortaa
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
