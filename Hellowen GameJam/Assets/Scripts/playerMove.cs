@@ -2,35 +2,48 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class playerMove : MonoBehaviour
+public class PlayerMove : MonoBehaviour
 {
-    private Rigidbody rb;
-    public float speed = 0.5f;
+    [SerializeField] private float speed = 0.5f;
+    [SerializeField] private float gravity = 9.81f;
+    [SerializeField] private float rotationSpeed;
+    private Rigidbody rigidbody;
     private Vector3 moveVector;
+    private bool isFreze = false;
 
-    void Awake()
+    private void Awake()
     {
-        rb = GetComponent<Rigidbody>();
+        rigidbody = GetComponent<Rigidbody>();
     }
 
-    void Update()
+    private void FixedUpdate()
     {
-        if(Input.GetKey(KeyCode.W))
+        if (isFreze == false)
         {
-            gameObject.transform.Translate(Vector3.forward * speed * Time.deltaTime);
-        }
-        if (Input.GetKey(KeyCode.S))
-        {
-            gameObject.transform.Translate(Vector3.forward * -speed * Time.deltaTime);
-        }
+            float x = Input.GetAxis("Horizontal");
+            float z = Input.GetAxis("Vertical");
+            moveVector = transform.right * x + transform.forward * z;
 
-        if (Input.GetKey(KeyCode.D))
-        {
-            gameObject.transform.Translate(Vector3.right * speed * Time.deltaTime);
+            RotatePlayer(moveVector);
+
+            moveVector.y -= gravity * Time.fixedDeltaTime;
+            rigidbody.velocity = Vector3.ClampMagnitude(moveVector, 1) * speed;
         }
-        if (Input.GetKey(KeyCode.A))
+    }
+
+    public void Freeze(bool isFreze)
+    {
+        this.isFreze = isFreze;
+        if (isFreze)
+            rigidbody.velocity = Vector3.zero;
+    }
+
+    private void RotatePlayer(Vector3 directionVector)
+    {
+        if (directionVector.magnitude > Mathf.Abs(0.05f))
         {
-            gameObject.transform.Translate(Vector3.right * -speed * Time.deltaTime);
+            Quaternion rotationPlayer = Quaternion.LookRotation(directionVector);
+            transform.rotation = Quaternion.Lerp(transform.rotation, rotationPlayer, rotationSpeed * Time.deltaTime);
         }
     }
 }
