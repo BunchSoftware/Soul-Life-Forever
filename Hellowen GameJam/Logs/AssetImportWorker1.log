@@ -5189,3 +5189,48 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1638.509146 seconds.
+  path: Assets/Models+Texters/color_atlas_5.png
+  artifactKey: Guid(4f0c0c16783446a4590be8419f3c391c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models+Texters/color_atlas_5.png using Guid(4f0c0c16783446a4590be8419f3c391c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c961c3f754632af1f3837d6a183dfe28') in 0.088092 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Models+Texters/vraszh_123.fbx
+  artifactKey: Guid(15ddfce88c7eaa246b6c15c760df5218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models+Texters/vraszh_123.fbx using Guid(15ddfce88c7eaa246b6c15c760df5218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec113475468d7e1fbb689cac327d8664') in 0.283836 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Models+Texters/st.fbx
+  artifactKey: Guid(9073d0bb21a644644ae575b611966c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models+Texters/st.fbx using Guid(9073d0bb21a644644ae575b611966c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '568d5acaec48ca06ca09377edcbe9118') in 0.071235 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Models+Texters/environment_platform.fbx
+  artifactKey: Guid(174a138c2d4bfe24fbf1c3547d186ec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models+Texters/environment_platform.fbx using Guid(174a138c2d4bfe24fbf1c3547d186ec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9571dc6425d6644aecf6dce4fdd7c30d') in 0.055269 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 5.509234 seconds.
+  path: Assets/Skybox add-on/Images/Materials/Skybox_6.mat
+  artifactKey: Guid(e7b7124c6da21e94fa7abf2d556a229c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skybox add-on/Images/Materials/Skybox_6.mat using Guid(e7b7124c6da21e94fa7abf2d556a229c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43301f7d88aea9a0d42dcc05577e2842') in 0.053674 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: ќпераци€ ввода/вывода была прервана из-за завершени€ потока команд или по запросу приложени€.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

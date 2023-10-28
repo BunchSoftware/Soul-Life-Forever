@@ -1477,3 +1477,200 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 211.789539 seconds.
+  path: Assets/Skybox add-on
+  artifactKey: Guid(1f5539662ddd09747b12a481aeb8a232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skybox add-on using Guid(1f5539662ddd09747b12a481aeb8a232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8064b1b7ed47a8b69c08976fe08fb726') in 0.002399 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 3.597303 seconds.
+  path: Assets/Models+Texters
+  artifactKey: Guid(a39866295a353fb40b709fd585e2d819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models+Texters using Guid(a39866295a353fb40b709fd585e2d819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b90af0fb0bce0f28019ccab767bdc9f') in 0.000472 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.085066 seconds.
+  path: Assets/Models+Texters/Atlas1.mat
+  artifactKey: Guid(24671db00e750cd45a46894a45ca94d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models+Texters/Atlas1.mat using Guid(24671db00e750cd45a46894a45ca94d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c72535ccdcbe11a2f8d72f458c745ac8') in 0.233757 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Models+Texters/Cub_1.fbx
+  artifactKey: Guid(483389ec0f4c8f9468c1201ffccdde1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models+Texters/Cub_1.fbx using Guid(483389ec0f4c8f9468c1201ffccdde1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'befab49d0b36162e1431e8f0700070ae') in 0.222909 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Models+Texters/vraszh_23.fbx
+  artifactKey: Guid(a4f5ddfa895dce6429aa30e216b24eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models+Texters/vraszh_23.fbx using Guid(a4f5ddfa895dce6429aa30e216b24eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c19b290250922328c245f9f980bd4b0a') in 0.040041 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 5.512753 seconds.
+  path: Assets/Skybox add-on/Images/Materials/Skybox_4.mat
+  artifactKey: Guid(044a93f96b5615646a6ca9ebccebc6ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skybox add-on/Images/Materials/Skybox_4.mat using Guid(044a93f96b5615646a6ca9ebccebc6ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e98f3bb63b13a3f400b2ed2e4129eb8') in 0.075200 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 60.255111 seconds.
+  path: Assets/Models+Texters/Asset/РќР°Р±РѕСЂ РјРµС€Р°/New Material.mat
+  artifactKey: Guid(41492e85434a5664b8d5f64001ce504e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models+Texters/Asset/РќР°Р±РѕСЂ РјРµС€Р°/New Material.mat using Guid(41492e85434a5664b8d5f64001ce504e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc2ab3437acb3e320254ee763273f722') in 0.312948 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 3.455035 seconds.
+  path: Assets/Models+Texters/OBSTACLES/1_obstacles_fence_1.fbx
+  artifactKey: Guid(161f7eb0bb71ccd44b8183842476eb17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models+Texters/OBSTACLES/1_obstacles_fence_1.fbx using Guid(161f7eb0bb71ccd44b8183842476eb17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1e768d71788ab6fa3be98ecffb08128') in 0.029000 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Models+Texters/OBSTACLES/1_obstacles_fence_2.fbx
+  artifactKey: Guid(e113337357a017d47920ba44bdc74ad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models+Texters/OBSTACLES/1_obstacles_fence_2.fbx using Guid(e113337357a017d47920ba44bdc74ad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3ec35183a1e8c24302ebcfa83d45452') in 0.026481 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Models+Texters/OBSTACLES/1_Assembly_obstacles_fence_1.fbx
+  artifactKey: Guid(038ce9704d0e890408ac82250e04ea2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models+Texters/OBSTACLES/1_Assembly_obstacles_fence_1.fbx using Guid(038ce9704d0e890408ac82250e04ea2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1bf6b44ce8c4cd61fca3bd28e121cf0') in 0.030198 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Models+Texters/PLATFORMS/R_stone column.fbx
+  artifactKey: Guid(493e24822ebe3d5408c622b861a539e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models+Texters/PLATFORMS/R_stone column.fbx using Guid(493e24822ebe3d5408c622b861a539e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c9b5a9fb086ebcc4a4161d215e05eb0') in 0.027166 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Models+Texters/ARCHES-COLUMNS/COLUMNS/1.5(col)_COLUMNS_sand.fbx
+  artifactKey: Guid(401a1e07ab715084b86d5e83815e686d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models+Texters/ARCHES-COLUMNS/COLUMNS/1.5(col)_COLUMNS_sand.fbx using Guid(401a1e07ab715084b86d5e83815e686d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eba183e94a7a88d3d660255fa492963') in 0.025927 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Models+Texters/CHAIN-ROP/rope.fbx
+  artifactKey: Guid(4d96d55666d2b514a8243819bf3889ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models+Texters/CHAIN-ROP/rope.fbx using Guid(4d96d55666d2b514a8243819bf3889ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89203465b1dd023b762709688c451e9d') in 0.026441 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Models+Texters/ARCHES-COLUMNS/COLUMNS_DESTROY/1.3(col)_DESTROY_COLUMNS_dark.fbx
+  artifactKey: Guid(5d7a251e8a74cea488ad4922c8a0e477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models+Texters/ARCHES-COLUMNS/COLUMNS_DESTROY/1.3(col)_DESTROY_COLUMNS_dark.fbx using Guid(5d7a251e8a74cea488ad4922c8a0e477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b42931f2eae4e961d87bfd52dc1ae1d') in 0.027372 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Models+Texters/ARCHES-COLUMNS/COLUMNS/1.6(col)_COLUMNS_dark-sand.fbx
+  artifactKey: Guid(debc7d848a648e748973e7420afd2a78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models+Texters/ARCHES-COLUMNS/COLUMNS/1.6(col)_COLUMNS_dark-sand.fbx using Guid(debc7d848a648e748973e7420afd2a78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e00df181f09b7297767df8288070053') in 0.025016 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Models+Texters/WOODS/wood_12.fbx
+  artifactKey: Guid(0cdf45cfcfecc9b4dada4c3fbf91b3cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models+Texters/WOODS/wood_12.fbx using Guid(0cdf45cfcfecc9b4dada4c3fbf91b3cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c9c170b8e1bbd7b4a9e0f7f1db4cda2') in 0.026071 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Models+Texters/TRAPS/parts/1_parts_1.fbx
+  artifactKey: Guid(e633b5cc4f090314884df2cdab6e9316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models+Texters/TRAPS/parts/1_parts_1.fbx using Guid(e633b5cc4f090314884df2cdab6e9316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '371e672962543d91d4c768b6ce75c652') in 0.025875 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Models+Texters/WOODS/wood_9.fbx
+  artifactKey: Guid(820091cc264b1bc458a944bfbce99751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models+Texters/WOODS/wood_9.fbx using Guid(820091cc264b1bc458a944bfbce99751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7472413fa76fbcc2d3d20271d2c12d08') in 0.026417 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Models+Texters/Asset/Р—РґР°РЅРёСЏ/1/guz_house.fbx
+  artifactKey: Guid(992036f849b153c48b05b4f641d9463f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models+Texters/Asset/Р—РґР°РЅРёСЏ/1/guz_house.fbx using Guid(992036f849b153c48b05b4f641d9463f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e07d4148b29068fb97a2a7bddeb33e5') in 0.049034 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Models+Texters/TRAPS/trap_10.fbx
+  artifactKey: Guid(ec5aea3964e26be449a439bc4b5971d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models+Texters/TRAPS/trap_10.fbx using Guid(ec5aea3964e26be449a439bc4b5971d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '281e7675c04fc10806a176a678d9c8b9') in 0.025525 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Models+Texters/ARCHES-COLUMNS/COLUMNS_DESTROY/2.5(col)_DESTROY_COLUMNS_sand.fbx
+  artifactKey: Guid(9c80d37c50f898f4087eb60d66d21481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models+Texters/ARCHES-COLUMNS/COLUMNS_DESTROY/2.5(col)_DESTROY_COLUMNS_sand.fbx using Guid(9c80d37c50f898f4087eb60d66d21481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54de4215b20a803adc614bfef6a98809') in 0.025358 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Models+Texters/TRAPS/trap_gear_3.fbx
+  artifactKey: Guid(92b0546da2f9ddd40a0926ddbea85f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models+Texters/TRAPS/trap_gear_3.fbx using Guid(92b0546da2f9ddd40a0926ddbea85f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c77b14b6680e71f0a7b49a50ab5939f') in 0.024990 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Models+Texters/STONES/stone_2.fbx
+  artifactKey: Guid(4271b202ebd89af4790c87d2a43b641d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models+Texters/STONES/stone_2.fbx using Guid(4271b202ebd89af4790c87d2a43b641d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c875382235bb88f86e5024bccdff06a1') in 0.026078 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Models+Texters/FIREWOOD-BONFIRE/bonfire.fbx
+  artifactKey: Guid(abefea6abc807434e8cb4ba8fa169e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models+Texters/FIREWOOD-BONFIRE/bonfire.fbx using Guid(abefea6abc807434e8cb4ba8fa169e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6f3d98c9cb07591a317e9bc3db36fb3') in 0.026328 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: Операция ввода/вывода была прервана из-за завершения потока команд или по запросу приложения.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
