@@ -41,10 +41,9 @@ public class MusicManager : MonoBehaviour
                 Mixer.audioMixer.SetFloat(Mixer.name, Mathf.Lerp(MinDB, MaxDB, PlayerPrefs.GetFloat(Mixer.name, 1f)));
             else
                 Mixer.audioMixer.SetFloat(Mixer.name, Mathf.Lerp(MinDB, MaxDB, 1));
-
-            if (OnPlayAwake)
-                OnPlayLoop(0);
         }
+        if (OnPlayAwake)
+            OnPlayLoop(0);
     }
 
     private IEnumerator DecayIEnumarator(float time)
