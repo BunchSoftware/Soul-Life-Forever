@@ -3,20 +3,28 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
-using UnityEngine.UIElements;
 
 public class UIController : MonoBehaviour
 {
-    [SerializeField] private MusicManager musicManager;
-    [SerializeField] private MusicManager soundManager;
-    [SerializeField] private PlayerMove playerMove;
+    [Header("Sound")]
+    public MusicManager musicManager;
+    public MusicManager soundManager;
+    [Header("UI")]
+    public Slider badScoreSlider;
+    public Slider goodScoreSlider;
+    public Text goodExplanations;
+    public Text badExplanations;
     [SerializeField] private GameObject panels;
     [SerializeField] private Fade fade;
+    [Header("Player")]
+    [SerializeField] private PlayerMove playerMove;
 
     private void Start()
     {
         Time.timeScale = 1;
         fade.FadeWhite();
+        goodExplanations.gameObject.SetActive(false);
+        badExplanations.gameObject.SetActive(false);
         musicManager.gameObject.SetActive(true);
         musicManager.SoundResurrection(1f);
         soundManager.gameObject.SetActive(true);

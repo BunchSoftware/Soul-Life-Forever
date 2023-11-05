@@ -6,7 +6,7 @@ using UnityEngine;
 
 public class MenuEntryPoint : EntryPoint
 {
-    [SerializeField] private UIController uiController;
+    [SerializeField] private MenuUIController menuUIController;
 
     public override void Dispose()
     {
@@ -15,6 +15,6 @@ public class MenuEntryPoint : EntryPoint
 
     public override void Initialize()
     {
-        uiController.gameObject.SetActive(true);
+        menuUIController.gameObject.SetActive(true);
     }
 }
